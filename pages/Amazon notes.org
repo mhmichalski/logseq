@@ -39,7 +39,8 @@
 *** PacBio is now the most realistic competitor
 **** Making a new long read
 *** Seer--a nanoparticle based prep
-**** With bruker
+**** With bruker you cant really see anything; with seer, you don't need to denature the protein
+**** Naut
 ***
 ***
 * Tips
