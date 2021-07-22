@@ -58,7 +58,12 @@
 **** Terra
 ***** Is the only concern: Google is cool and the Broad is cool
 ***** Twist
-**
+** New products and service
+*** New product pipeline
+*** Product roseland
+**** Managed layer for all the genomic tools they've built
+**** ML/AI base pod, munich leukemia is using sagemaker
+****
 ***
 ***
 ***
