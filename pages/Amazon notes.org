@@ -13,6 +13,10 @@
 * Genomics
 ** 25-50% is still on prem
 *** Partly cause coding
-**
+** Cost
+*** But nobody really believes the calculations
+** Each genome is like 150 gigs
+** Exomes 15 gigs
+** Goal 1 is to deploy genomic analysis in
 *
 *
