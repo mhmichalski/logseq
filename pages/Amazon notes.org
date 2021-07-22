@@ -18,5 +18,8 @@
 ** Each genome is like 150 gigs
 ** Exomes 15 gigs
 ** Goal 1 is to deploy genomic analysis in
+*** Bring in public data sets
+*** Bringing the SRA, Nomad, Proteinomics
+***
 *
 *
