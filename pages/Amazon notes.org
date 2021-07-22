@@ -36,6 +36,9 @@
 :PROPERTIES:
 :later: 1626986878336
 :END:
+*** PacBio is now the most realistic competitor
+**** Making a new long read
+***
 ***
 ***
 * Tips
