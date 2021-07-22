@@ -3,6 +3,12 @@
 ** Big win would be to help them with their Amazon healthlake product
 ** Smaller would to promote adoption for their machine learning stuff
 ** Another potential one, that is probably more aligned with your interests, is to help them visualize the future, and build toward that
-*
+* 2x2 links
+** https://amazon.awsapps.com/workdocs/index.html#/document/40c79fd862e17057371c8a60986f115366ba6228c36173c7c097b468cbf7ec31
+** https://quip-amazon.com/aQqGAhW6Qf1a/Workdocs-Link-to-MBR-2x2
+** https://amazon.awsapps.com/workdocs/index.html#/document/bdad42ce06fa3c8e2e46e9872c863ae2757fa9b5b049cace20581b3b02eb735f
+** https://amazon.awsapps.com/workdocs/index.html#/document/bdad42ce06fa3c8e2e46e9872c863ae2757fa9b5b049cace20581b3b02eb735f
+** https://amazon.awsapps.com/workdocs/index.html#/document/f7a5a9ec698245bee489e40cad654c7fc96f79966a86294dad442e4d65452201
+** https://amazon.awsapps.com/workdocs/index.html#/document/81afcd1d65599fbccb14e0cda6a7a3349c15e6a8df2da3a9f1361d1435e6036e
 *
 *
