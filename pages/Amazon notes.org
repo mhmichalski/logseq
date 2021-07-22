@@ -44,7 +44,9 @@
 *** 10xs
 *** Bionanogenomics
 **** With them we're just going and saying all you
-**
+** Competition in the Genomics world
+*** MSFT is sucking wind
+*** Google is working
 ***
 ***
 * Tips
