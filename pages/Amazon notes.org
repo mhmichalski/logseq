@@ -40,7 +40,10 @@
 **** Making a new long read
 *** Seer--a nanoparticle based prep
 **** With bruker you cant really see anything; with seer, you don't need to denature the protein
-**** Naut
+**** Nautalus
+*** 10xs
+*** Bionanogenomics
+**** With them we're just going
 ***
 ***
 * Tips
