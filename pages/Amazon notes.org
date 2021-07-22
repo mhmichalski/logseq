@@ -46,7 +46,10 @@
 **** With them we're just going and saying all you
 ** Competition in the Genomics world
 *** MSFT is sucking wind
-*** Google is working
+*** Google is interesting
+**** Because of Verily
+**** 90% win rate, but that's because there aren't enoug reps
+**** When they lose, it's because GV puts in a bunch of money at the
 ***
 ***
 * Tips
