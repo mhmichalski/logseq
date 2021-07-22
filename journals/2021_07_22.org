@@ -3,9 +3,10 @@
 :PROPERTIES:
 :todo: 1626969575045
 :END:
-** TODO Respond to Alli on the SVB leerink thing
+** DONE Respond to Alli on the SVB leerink thing
 :PROPERTIES:
 :todo: 1626969557128
+:done: 1626971700068
 :END:
 ** TODO Send Mani an outline of ML/AI
 :PROPERTIES:
