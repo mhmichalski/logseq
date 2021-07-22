@@ -15,5 +15,5 @@
 :PROPERTIES:
 :todo: 1626969639355
 :END:
+** TODO Sales training thing I guess?
 **
-TODO
