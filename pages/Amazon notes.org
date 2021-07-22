@@ -54,6 +54,7 @@
 **** Tempus
 ***** Is still their number one AWS customer
 ***** ARR is 50M
+***** Ancestry 30M
 **** Terra
 ***** Is the only concern: Google is cool and the Broad is cool
 ***** Twist
