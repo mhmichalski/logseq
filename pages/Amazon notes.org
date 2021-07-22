@@ -1,2 +1,3 @@
-* The actually useful sales Wiki is here
+* The actually useful [[https://w.amazon.com/bin/view/AWS-Sales-BD/AWS-Industry-Verticals/HCLS/][sales wiki]]
+*
 *
