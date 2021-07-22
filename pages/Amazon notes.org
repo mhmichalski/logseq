@@ -63,7 +63,8 @@
 *** Product roseland
 **** Managed layer for all the genomic tools they've built
 **** ML/AI base pod, munich leukemia is using sagemaker
-****
+*** But in the ML and AI world, it's just not that clear
+*** Whether its DNA
 ***
 ***
 ***
