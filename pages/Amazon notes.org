@@ -1,5 +1,6 @@
 * The actually useful [[https://w.amazon.com/bin/view/AWS-Sales-BD/AWS-Industry-Verticals/HCLS/][sales wiki]]
 * *What do I actually need to succeed here*
 ** Big win would be to help them with their Amazon healthlake product
+** Smaller would to promote adoption for
 *
 *
