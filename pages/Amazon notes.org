@@ -61,7 +61,9 @@
 ** New products and service
 *** Phosphate
 **** Launching next week
-****
+**** Issues
+***** How simple
+***** How many workflow languages it uses, you need to be able
 *** Product roseland
 **** Managed layer for all the genomic tools they've built
 **** ML/AI base pod, munich leukemia is using sagemaker
