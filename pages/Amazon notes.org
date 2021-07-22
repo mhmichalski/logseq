@@ -30,7 +30,8 @@
 **** Freenome
 *** Personalized cancer vaccine companies
 **** Neon failed, moderna took forever, nobody really figured this out
-**** Multiomics and
+**** Multiomics and ML/AI
+****
 ***
 * Tips
 ** you can escalate for credits, etc
