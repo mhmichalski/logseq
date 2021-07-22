@@ -1,6 +1,9 @@
 * Todos
-** [ ] Review the 2x2s with the lexicon info
-** TODO [ ] Respond to Alli on the SVB leerink thing
+** TODO Review the 2x2s with the lexicon info
+:PROPERTIES:
+:todo: 1626969575045
+:END:
+** TODO Respond to Alli on the SVB leerink thing
 :PROPERTIES:
 :todo: 1626969557128
 :END:
