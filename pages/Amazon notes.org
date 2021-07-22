@@ -20,6 +20,8 @@
 ** Goal 1 is to deploy genomic analysis in
 *** Bring in public data sets
 *** Bringing the SRA, Nomad, Proteinomics
+** Goal 2
+** Goal 3
 ***
 *
 *
