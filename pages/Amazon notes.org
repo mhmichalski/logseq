@@ -69,10 +69,12 @@
 **** ML/AI base pod, munich leukemia is using sagemaker
 *** But in the ML and AI world, it's just not that clear
 *** Whether its DNA
-***
-***
-***
-***
+* How to succeed
+** There is always going to be way to many meetings
+*** I've
+**
+**
+**
 * Tips
 ** you can escalate for credits, etc
 ** AMZN cares a lot about ARR, not one offs
