@@ -17,4 +17,6 @@
 :todo: 1626969639355
 :END:
 ** TODO Sales training thing I guess?
+** TODO Take a look at the writing thing
+**
 **
