@@ -25,6 +25,10 @@
 *** Move it all over for free
 ** Clinical genomics is starting to emerge
 *** First circulating tumor cells
+**** Grail
+**** Exact sciences
+**** Freenome
+***
 ***
 * Tips
 ** you can escalate for credits, etc
