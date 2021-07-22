@@ -31,8 +31,8 @@
 *** Personalized cancer vaccine companies
 **** Neon failed, moderna took forever, nobody really figured this out
 **** Multiomics and ML/AI
-*** Fourth
-****
+**
+***
 ***
 * Tips
 ** you can escalate for credits, etc
