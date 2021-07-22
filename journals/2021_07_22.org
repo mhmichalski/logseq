@@ -1,4 +1,7 @@
 * Todos
 ** [ ] Review the 2x2s with the lexicon info
-** [ ] Respond to Alli on the SVB leerink thing
-** [ ] Send Mani an outline of a
+** TODO [ ] Respond to Alli on the SVB leerink thing
+:PROPERTIES:
+:todo: 1626969557128
+:END:
+** [ ] Send Mani an outline of ML/AI
