@@ -38,7 +38,8 @@
 :END:
 *** PacBio is now the most realistic competitor
 **** Making a new long read
-***
+*** Seer--a nanoparticle based prep
+**** With bruker
 ***
 ***
 * Tips
