@@ -10,9 +10,8 @@
 ** https://amazon.awsapps.com/workdocs/index.html#/document/bdad42ce06fa3c8e2e46e9872c863ae2757fa9b5b049cace20581b3b02eb735f
 ** https://amazon.awsapps.com/workdocs/index.html#/document/f7a5a9ec698245bee489e40cad654c7fc96f79966a86294dad442e4d65452201
 ** https://amazon.awsapps.com/workdocs/index.html#/document/81afcd1d65599fbccb14e0cda6a7a3349c15e6a8df2da3a9f1361d1435e6036e
-* Genomics
-:PROPERTIES:
-:END:
+* Conversation with Brian Donnelly
+** Genomics
 ** 25-50% is still on prem
 *** Partly cause coding
 ** Cost
