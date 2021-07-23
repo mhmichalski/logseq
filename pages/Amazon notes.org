@@ -45,31 +45,31 @@
 **** 10xs
 **** Bionanogenomics
 ***** With them we're just going and saying all you
-** Competition in the Genomics world
-*** MSFT is sucking wind
-**** Adaptive
-*** Google is interesting
-**** Because of Verily
-**** 90% win rate, but that's because there aren't enoug reps
-**** When they lose, it's because GV puts in a bunch of money at the early rounds
-**** Tempus
-***** Is still their number one AWS customer
-***** ARR is 50M
-***** Ancestry 30M
-**** Terra
-***** Is the only concern: Google is cool and the Broad is cool
-***** Twist
-** New products and service
-*** Phosphate
-**** Launching next week
-**** Issues
-***** How simple
-***** How many workflow languages it uses, you need to be able
-*** Product roseland
-**** Managed layer for all the genomic tools they've built
-**** ML/AI base pod, munich leukemia is using sagemaker
-*** But in the ML and AI world, it's just not that clear
-*** Whether its DNA
+*** Competition in the Genomics world
+**** MSFT is sucking wind
+***** Adaptive
+**** Google is interesting
+***** Because of Verily
+***** 90% win rate, but that's because there aren't enoug reps
+***** When they lose, it's because GV puts in a bunch of money at the early rounds
+***** Tempus
+****** Is still their number one AWS customer
+****** ARR is 50M
+****** Ancestry 30M
+***** Terra
+****** Is the only concern: Google is cool and the Broad is cool
+****** Twist
+*** New products and service
+**** Phosphate
+***** Launching next week
+***** Issues
+****** How simple
+****** How many workflow languages it uses, you need to be able
+**** Product roseland
+***** Managed layer for all the genomic tools they've built
+***** ML/AI base pod, munich leukemia is using sagemaker
+**** But in the ML and AI world, it's just not that clear
+**** Whether its DNA
 * How to succeed
 ** There is always going to be way to many meetings
 *** You have to block time
