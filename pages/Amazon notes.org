@@ -12,10 +12,10 @@
 ** https://amazon.awsapps.com/workdocs/index.html#/document/81afcd1d65599fbccb14e0cda6a7a3349c15e6a8df2da3a9f1361d1435e6036e
 * Conversation with Brian Donnelly
 ** Genomics
-** 25-50% is still on prem
-*** Partly cause coding
-** Cost
-*** But nobody really believes the calculations
+*** 25-50% is still on prem
+**** Partly cause coding
+*** Cost
+**** But nobody really believes the calculations
 ** Each genome is like 150 gigs
 ** Exomes 15 gigs
 ** Goal 1 is to deploy genomic analysis in
