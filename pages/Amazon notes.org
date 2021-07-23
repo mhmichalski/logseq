@@ -16,14 +16,14 @@
 **** Partly cause coding
 *** Cost
 **** But nobody really believes the calculations
-** Each genome is like 150 gigs
-** Exomes 15 gigs
-** Goal 1 is to deploy genomic analysis in
-*** Bring in public data sets
-*** Bringing the SRA, Nomad, Proteinomics
-** Goal 2 Bring analysis into the cloud
-** Goal 3 Migration acceleration program
-*** Move it all over for free
+*** Each genome is like 150 gigs
+*** Exomes 15 gigs
+*** Goal 1 is to deploy genomic analysis in
+**** Bring in public data sets
+**** Bringing the SRA, Nomad, Proteinomics
+*** Goal 2 Bring analysis into the cloud
+*** Goal 3 Migration acceleration program
+**** Move it all over for free
 ** Clinical genomics is starting to emerge
 *** First circulating tumor cells
 **** Grail
