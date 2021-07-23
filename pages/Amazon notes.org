@@ -32,19 +32,19 @@
 **** Personalized cancer vaccine companies
 ***** Neon failed, moderna took forever, nobody really figured this out
 ***** Multiomics and ML/AI
-** Platform
-*** Illumina is going to start losing
+*** Platform
+**** Illumina is going to start losing
 :PROPERTIES:
 :later: 1626986878336
 :END:
-*** PacBio is now the most realistic competitor
-**** Making a new long read
-*** Seer--a nanoparticle based prep
-**** With bruker you cant really see anything; with seer, you don't need to denature the protein
-**** Nautalus
-*** 10xs
-*** Bionanogenomics
-**** With them we're just going and saying all you
+**** PacBio is now the most realistic competitor
+***** Making a new long read
+**** Seer--a nanoparticle based prep
+***** With bruker you cant really see anything; with seer, you don't need to denature the protein
+***** Nautalus
+**** 10xs
+**** Bionanogenomics
+***** With them we're just going and saying all you
 ** Competition in the Genomics world
 *** MSFT is sucking wind
 **** Adaptive
